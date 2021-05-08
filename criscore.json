@@ -1,0 +1,17 @@
+{
+	"name": "CrisCore",
+	"version": "0.5",
+	"changelog": [
+	    "AAA"
+	],
+	"changes": [
+	    "- Fixed Ultimate Armor repair item",
+	    "- Added this changes message",
+	    "- Changed revival effect given, now is: Regeneration II (00:42)",
+	    "- Warning! Repair gems have render problems with one of these mods",
+	    "- Foamfix",
+	    "- VanillaFix",
+	    "- CTM (ConnectedTextureMod)"
+	],
+	"download": "http://allminecraft.servegame.com/test/myarmorplus.html"
+}
